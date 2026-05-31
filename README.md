@@ -1,1 +1,1 @@
-# Actividad Semana 2
+Actividad Semana 2 - Git y GitHub
