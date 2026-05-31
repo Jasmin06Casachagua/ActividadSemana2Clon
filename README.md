@@ -1,2 +1,1 @@
-Mi primera práctica con Git y GitHub.
-Actividad Semana 2 - Git y GitHub
+Trabajo realizado en la rama desarrollo.
