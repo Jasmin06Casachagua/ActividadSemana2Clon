@@ -1,1 +1,1 @@
-Trabajo realizado en la rama desarrollo.
+Versión modificada desde la rama conflicto.
